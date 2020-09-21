@@ -1,0 +1,6 @@
+__pycache__
+input_songs/*
+output
+pretrained_models
+temp/*
+
