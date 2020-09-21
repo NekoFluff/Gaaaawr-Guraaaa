@@ -1,6 +1,8 @@
 # Gaaaawr Guraaaa
 
-Let's sing Aaaaaaaaaaaaaaaaaaaaaa! Transform
+Let's sing Aaaaaaaaaaaaaaaaaaaaaa! Transform the vocals of any song into a robotic version of Gawr Gura's 'A' sound.
+
+Example: https://twitter.com/SheavinNou/status/1307907111641403392
 
 ## How to use
 
@@ -8,6 +10,7 @@ Let's sing Aaaaaaaaaaaaaaaaaaaaaa! Transform
 
 2. Unzip repo if downloaded
 3. Install pip requirements using requirements.txt (<a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/">I recommend creating a new environment</a>)
+   <br/>
    <code>
    pip install -r requirements.txt
    </code>
@@ -36,4 +39,11 @@ Details on spleeter can be found <a href="https://github.com/deezer/spleeter">HE
    output/song_name/Aaa_song_name.mp3
    </code>
 
-9. Enjoy!
+9. Enjoy a robotic Gura!
+
+10. You can find the accomaniment.wav and vocal.wav file in the folder:
+    <code>
+    output/song_name/accompaniment
+    </code>
+
+Have fun mashing it together :3
